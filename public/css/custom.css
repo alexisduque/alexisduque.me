@@ -21,3 +21,18 @@
 	width: 160px;
 	margin: 0 auto;
 }
+
+.post-more a {
+    font-size: 80%;
+    color: #999;
+	text-decoration: none;
+	font-style: italic;
+	
+}
+.post-more a:hover {
+    font-size: 80%;
+    color: #303030;
+	text-decoration: none;
+	font-style: italic;
+	
+}

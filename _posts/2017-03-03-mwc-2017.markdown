@@ -4,5 +4,8 @@ title: "Mobile World Congress 2017"
 date: "2017-03-03 09:44:34 +0200"
 ---
 
+From February 26 to March 3th, I have been lucky to attend the [Mobile World Congress](https://www.mobileworldcongress.com) that takes place each year in Barcelona. This is the world’s largest event for the mobile industry, organised by the GSMA, where the leading companies (Huawei, Qualcomm, Orange, Vodafone, ...) unveil their latest innovations and strategies.
+
+During this edition, examples of *hot* and actively discussed topics were mobile-IoT, 5G, Virtual/Augmented Reality or Artificial Intelligence. Visible Light Communications was no exception: PureLifi demonstrated its new Lifi-X dongle while Philips Lightning introduced a VLC based indoor localization system for the retail industry.
+
 <img src="{{ site.baseurl }}/public/mwc2017.jpg" alt="MWC 2017" style="width: 250px;"/>
-From February 26 to March 3th, I have been lucky to attend the [Mobile World Congress](https://www.mobileworldcongress.com) that takes place each year in Barcelona. This is the world’s largest event for the mobile industry, organised by the GSMA, where the leading companies (Huawei, Qualcomm, Orange, Vodafone, ...) unveil their latest innovations and strategies. During this edition, examples of *hot* and actively discussed topics were mobile-IoT, 5G, Virtual/Augmented Reality or Artificial Intelligence. Visible Light Communications was no exception: PureLifi demonstrated its new Lifi-X dongle while Philips Lightning introduced a VLC based indoor localization system for the retail industry.

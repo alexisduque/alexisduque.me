@@ -194,8 +194,12 @@
     font-size: 24px;
 }
 
-
-
+.post-more {
+    > a {
+    font-size: $small-font-size!important;
+    color: $grey-color!important;
+    }
+}
 /**
  * Posts
  */
