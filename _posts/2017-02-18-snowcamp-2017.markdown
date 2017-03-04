@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Snwocamp 2017"
+date: "2017-02-18 09:44:34 +0200"
+---
+
+From February 15 to 18, I attended the Snowcamp 2017 in Grenoble, France.
+During this software developer conference I gave an advanced talk about [Bluetooth Low Energy](https://speakerdeck.com/alexisduque/bluetooth-low-energy-vous-saurez-tout)
+ and a brief popularization talk about [Visible Light Communication](https://speakerdeck.com/alexisduque/visible-light-communications-pour-liot).
+
+<script async class="speakerdeck-embed" data-id="393a8a209ef4402582aaf6b881bee98e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script async class="speakerdeck-embed" data-id="1c7cd06aef354d90b112739b2f6b00d6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

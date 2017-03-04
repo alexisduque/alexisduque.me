@@ -1,0 +1,11 @@
+---
+layout: post
+title: "EWSN 2017"
+date: "2017-03-01 09:44:34 +0200"
+---
+
+On February 21th, I presented our *Off-the-shelf Bi-directional Visible Light Communication Module for IoT Devices and Smartphones* during the posters and demos session at [EWSN](http://www.ewsn2017.org/) that has been held in Uppsala, Sweden.
+
+The demo abstract will be included in the conference proceedings that will be published soon or can alternatively be accessed via the [HAL library](https://hal.inria.fr/hal-01473706).
+
+<script async class="speakerdeck-embed" data-id="f5b37c5e153c4bdfadad4f1c17a0ea6d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

@@ -2,6 +2,26 @@
 layout: page
 title: Talks
 ---
+
+
+## Bluetooth Low Energy: vous saurez tout
+
+A talk about Bluetooth Low Energy I gave at **Snowcamp 2017** in Grenoble, on February 16th.
+
+*Abstract (In French): Avec l’essor de l’IoT, le Bluetototh Low Energy a fait son apparition en permettant à des objets de communiquer avec votre smartphone : thermomètres, bracelets d’activité, mais aussi piloter votre cafetière préférée. Néanmoins, ce protocole radio reste souvent mystérieux pour les utilisateurs et les développeurs.
+Cette présentation démystifiera son fonctionnement, son avenir avec l’arrivée du Bluetooth 5.0 et son implémentation sur les plateformes mobiles. Pour les plus bricoleurs de l'auditoire, nous verrons également comment créer rapidement son propre périphérique BLE en utilisant un kit de développement grand public.*
+
+<script async class="speakerdeck-embed" data-id="393a8a209ef4402582aaf6b881bee98e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+## Visible Light Communications pour l’IoT
+
+A brief popularization presentation about Visible Light Communications for the IoT I gave at **Snowcamp 2017** in Grenoble, on February 17th.
+
+*Abstract (In French): Vous avez entendu parlé de VLC ? de LiFi ? Ce lightning talk présentera les grandes lignes de la communication par lumière visible (VLC) et plus particulièrement les possibilités qu'elle offre pour l’Internet des Objets, à travers un exemple concret montrant comment un smartphone peut communiquer avec une LED low-cost que l'on trouve sur presque tous vos appareils éléctroniques.*
+
+<script async class="speakerdeck-embed" data-id="1c7cd06aef354d90b112739b2f6b00d6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
 ## VLCS'16: Unleashing the power of LED-to-camera communications for IoT devices
 
 Paper presentation during the *3rd ACM Workshop on Visible Light Communication Systems* workshop joints with Mobicom 2016, New York (USA), on October 3rd.

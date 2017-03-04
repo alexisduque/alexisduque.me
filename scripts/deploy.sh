@@ -5,7 +5,7 @@ if [[ $TRAVIS_BRANCH == 'master' ]] ; then
   git init
 
   git config user.name "Alexis DUQUE"
-  git config user.email "alexisd61@gmail.fr"
+  git config user.email "alexisd61@gmail.com"
 
   git add .
   git commit -m "Deploy"

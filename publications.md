@@ -10,6 +10,7 @@ This page collects my publications.
 ## Conferences
 
 {% reference duque:hal-01351146 %} [*link*](https://hal.inria.fr/hal-01351146), [*slides*]({{ site.baseurl }}/public/vlcs16-duque.pdf)
+{% reference duque:hal-01473706 %} [*link*](https://hal.inria.fr/hal-01473706)
 
 ## Journals
 
