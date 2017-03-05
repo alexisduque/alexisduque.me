@@ -9,8 +9,9 @@ This page collects my publications.
 
 ## Conferences
 
-{% reference duque:hal-01351146 %} [*link*](https://hal.inria.fr/hal-01351146), [*slides*]({{ site.baseurl }}/public/vlcs16-duque.pdf)
 {% reference duque:hal-01473706 %} [*link*](https://hal.inria.fr/hal-01473706)
+
+{% reference duque:hal-01351146 %} [*link*](https://hal.inria.fr/hal-01351146), [*slides*]({{ site.baseurl }}/public/vlcs16-duque.pdf)
 
 ## Journals
 
@@ -18,7 +19,10 @@ This page collects my publications.
 
 ## Posters
 
+{% reference duque:poster-ewsn17 %} [*link*]({{ site.baseurl }}/public/poster-ewsn17.pdf)
+
 {% reference duque:poster-phd16 %} [*link*]({{ site.baseurl }}/public/phdciti_poster_aduque.pdf)
+
 
 ## Demos Workshops
 
