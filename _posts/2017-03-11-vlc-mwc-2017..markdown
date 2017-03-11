@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Visible Light Communication at MWC 2017"
+date: "2017-03-11 18:44:34 +0200"
+---
+
+From February 26 to March 3th, I have been lucky to attend the [Mobile World Congress ](http://www.mobileworldcongress.com/)that takes place each year in Barcelona. Organized by the GSMA, this is the world’s largest event for the mobile industry, where the leading companies (Huawei, Qualcomm, Orange, Vodafone, ...) unveil their latest innovations and products.
+
+MWC 2017 just ended and despite Mark Zuckerberg did not show up in Barcelona last week, the attendance still increased to 109,000 from 101,000 in the previous edition.
+
+One more time, smartphone manufacturers take advantage of this event and the huge audience to officially launch their _smartphone of the year_. Besides, discussions and announces less mediated still occurs.
+
+This year, examples of _hot_ and actively _dealt with_ topics were **mobile-IoT**, **5G**, **Virtual/Augmented Reality** or **Artificial Intelligence (AI)**.
+
+**Visible Light Communication** (VLC), also known as **LiFi**, was no exception, and PureLifi, Philips Lighting, i2CAT, Oledcomm, show their advances in the field.
+
+_**Lets, recap what was being shown in the Catalan capital last week.**_
+
+### PureLifi
+
+Since 2011, the Scottish spin-off of the [University of Edinburgh](http://www.lifi.eng.ed.ac.uk/), co-founded by [Pr. Harald Haas](http://scholar.google.co.uk/citations?user=XxIwRJQAAAAJ&hl=en), develops a LiFi high-speed, bi-directional, networked and mobile wireless communication system using the light spectrum.
+
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAwXAAAAJDA3NDE2OWIxLWRmYTktNGVmMy04MmQ4LTA3M2YxY2M5ZjM2NQ.jpg" alt="MWC 2017" style="width: 250px;"/>
+
+Last year, they disclosed the [Lifi-X ](http://purelifi.com/lifi-products/lifi-x/)USB dongle and demonstrates a **wireless communication between a tablet and a LiFi enabled access point**.
+
+This year, the company introduces a new Access Point (AP), that consists of an integrated luminaire. It supports **mobility and handover**, **multiple access** between 8 to 16 users at once, and delivers data at rates of **45 megabits per second**.
+
+### i2CAT Fundation
+
+The [i2CAT foundation](http://i2cat.net/) is a non-profit research and innovation center based in Barcelona which promotes mission-oriented R+D+i activities. For more than five years, the _Ubiquitous Internet Technology unit_, led by[ Pr. Josep Paradells](http://scholar.google.co.uk/citations?user=LFEBdZYAAAAJ) (also i2CAT President) and [Daniel Camps](http://www.linkedin.com/in/danielcamps/), works on **VLC** and **Optical Camera Communication** (OCC). During the past Congress editions, they present their results with real-life use cases and great demo.
+
+While in 2014 they demonstrate an **Indoor Positioning System** (IPS) using the smartphone light sensor, with an accuracy at _the light-bulb level_, in 2015 they used a LED luminary controlled by a Raspberry Pi to **broadcast information** to commercial smartphones using the back camera.
+
+Last year and once again, their demo showed an IPS, but radically different and improved. By taking advantage of the mobile phone front camera, it provides **3D localization** with a **decimeter accuracy** and **orientation** capabilities. The i2CAT booth was set up with store decors demonstrating a retail use case and [assisted shopping for visually impaired persons.](http://www.youtube.com/watch?v=alVp8sVuviw)
+
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAyWAAAAJGQwMjkxM2Y0LTE5ODAtNDgyNi04ZGM5LWM0Mzk1NDEzNzdiZQ.jpg" alt="MWC 2017" style="width: 350px;"/>
+
+This year, the team exploits their IDS system to bring out a new use case. They developed a **3D** smartphone **game** with **virtual reality (VR)** to be used with the **Samsung Gear headset**. By wearing the glasses, the user had to quickly move in the space, to catch as much as possible balls thrown by two canons.
+
+### Oledcomm
+
+The[ French startup](http://www.oledcomm.com/fr/) founded by [Pr. Suat TOPSU](http://fr.linkedin.com/in/suat-topsu-06979737) in 2012 offers solutions for indoor positioning system (GEOLiFi) and data communication (LiFiNET) through light, primarily for retail, and healthcare.
+
+Even if in the past their system relies on a small **jack dongle to be plugged in a smartphone**, their new app now uses the **mobile phone camera**.
+
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAApRAAAAJDlkMzg5MjgzLWRlMDAtNGYxNy1iNWM2LWM4NjdlZGMwZmYzOQ.jpg" alt="MWC 2017" style="width: 350px;"/>
+
+At their booth in the French Tech area, they built a tiny Lego smart city and placed two desk lamp on each side. Their rocky demo was however quite nice: by putting the smartphone just below both lights, the application plays different videos, providing contextual information.
+
+### Philips Lightning
+
+The well-known market leader in LED lighting solutions, also came to Barcelona with their indoor positioning system. The system utilizes **a combination of VLC technology, Bluetooth, and a smartphone’s inertial sensors** to deliver indoor positioning that they claim accurate within **30cm**, plus **orientation**, with **in-pocket notifications**, and analytics thanks to **a cloud platform**.
+
+Besides, during a _Partners event_ conference, the company unveil **a collaboration program** called _Localization Lab_. It includes industry leaders (such as Microsoft, SAP or Capgemini) and start-up (SES-imagotag, Favendo, Adactive, Vipera, Nakko Mapiq and Blue Jay, active in robotics) and aims to find complementary products and services alongside localization. Partners will access to Philips’ indoor positioning software development kit and an evaluation kit comprised of indoor positioning LED lights.
+
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAuPAAAAJGIzNTEyYWEwLTM5ZDMtNGMzNC05MDAxLWI5NWM1MTc4NjQ4ZQ.jpg" alt="MWC 2017" style="width: 350px;"/>
+
+### Conclusion
+
+To conclude, **MWC 2017** saw that Visible Light Communication is **on the edge of marketing** and definitely a promising technology. One more time, IPS seems to be a killer app, since the indoor localization issue still **not totally solved by radio-based methods**, and recent reports (such as [MarketAndMarkets](http://www.marketsandmarkets.com/PressReleases/indoor-location.asp) one) estimating the IPS market at 23.13 Billion USD in 2021 may attract interests.
+
+However, a **VLC transceiver integrated into smartphones still missing** and this is probably a blocker to mass adoption.
+
+MWC 2017 finally unveiled only a few pieces of the VLC capability. Other use cases for VLC in the IoT context may exist and have to be further explored. I think of [sensing](http://dartnets.cs.dartmouth.edu/starlight), integration with WiFi or [low-cost device to device communication](http://rtone.fr/portfolio-item/visible-light-communication-vlc/).
+
+_N.B. This article has been originally posted on Linkedin [here](https://www.linkedin.com/pulse/visible-light-communication-mobile-world-congress-2017-alexis-duque)._
+
+
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA3dAAAAJDk4YTY5M2U3LTA1NmQtNGFjZC05ZjBiLTBiNTNmMTMwM2ZkNQ.jpg" alt="MWC 2017" style="width: 100%;"/>
