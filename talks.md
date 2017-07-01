@@ -3,6 +3,15 @@ layout: page
 title: Talks
 ---
 
+## Le logiciel libre et leurs communautés peuvent-ils contribuer à un monde meilleur ?
+
+A talk about *Open Source Software and Communities* I gave at **MiXiT 2017** in Lyon, on April 20th.
+
+*Abstract (In French): En 2014, en participant au programme Google Summer Code, j’ai eu l’opportunité de rejoindre la communauté du projet OpenMRS.
+OpenMRS est une plateforme de collecte de données médicales (EMR), libre, gratuite et utilisées dans de nombreux pays du tiers monde. L’origine de ce projet remonte à 2004, pour améliorer la lutte contre le SIDA en Afrique subsaharienne. Plus de dix ans après, le projet rassemble une communauté de près de 150 contributeurs actifs et 3000 utilisateurs dans le monde.
+La nature humanitaire de ce projet, m'a poussé à me questionner sur l’impact et l’influence qu’un tel projet, et plus généralement les logiciels libres pouvaient avoir sur la société et le monde actuel. L'objectif de ce talk est donc de partager cette experience et de suciter votre reflexion !*v
+
+<script async class="speakerdeck-embed" data-id="263871e25bd24b7cbbe9ee0547aba4ff" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Bluetooth Low Energy: vous saurez tout
 
