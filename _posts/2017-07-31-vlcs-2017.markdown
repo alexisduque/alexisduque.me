@@ -1,0 +1,7 @@
+---
+layout: post
+title: "VLCS 2017 accepted paper"
+date: "2017-07-31 09:36:31 +0200"
+---
+
+The paper "SeedLight: Hardening LED-to-Camera Communication with Random Linear Coding", co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication at the [VLCS 2017 workshop](http://vlcs17.winlab.rutgers.edu/), to be held in Snowbird, Utah, USA, on October 16, co-located with the prestigious [ACM MobiCom 2017](http://www.sigmobile.org/mobicom/2017/).

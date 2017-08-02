@@ -19,7 +19,7 @@ tagline:          'PhD student at the CITI Lab, INSA Lyon - Agora Team, INRIA.'
 description:      'PhD student, CITI Lab.<br>Embedded Soft. Engineer, Rtone.'
 url:              http://alexisduque.me
 baseurl:          ''
-update: 'July 1st, 2017'
+update: 'August 1s, 2017'
 paginate: 5
 paginate_path: "/news/page:num/"
 
