@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Tutorials on PhantomNet and Paradrop"
+date: "2017-09-14 09:39:31 +0200"
+---
+<img src="{{ site.url }}/public/utah.png" alt="University of Utah" style="width: 250px;"/>
+
+On October 15th, a day before the start of MobiCom, I will attend two hands-on tutorials hosted at the **University of Utah** about two emerging wireless technologies: [PhantomNet](https://www.flux.utah.edu/project/phantomnet), a platform with an end-to-end mobile testbed to experiment with new wireless technologies in the wild; and [ParaDrop](http://www.paradrop.org/), a new **edge computing platform** that allows experimenters to deploy edge services in a WiFi Access Point.

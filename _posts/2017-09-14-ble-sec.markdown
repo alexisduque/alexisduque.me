@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Make your Bluetooth Low Energy IoT device more secure with Visible Light Communication"
+date: "2017-09-14 09:36:31 +0200"
+---
+
+I wrote a post on [Medium](https://medium.com/@alexisduque/) about Bluetooth Low Energy security showing how Visible Light Communication can improve it.
+
+Follow [this link](https://medium.com/@alexisduque/make-your-bluetooth-low-energy-iot-device-more-secure-with-visible-light-communication-c2980006d2ac)
+ to read it on Medium.
+
+### About IoT security
+
+Since the Internet of Things is still in the emerging phase, ensuring security
+and privacy is an important issue that must be addressed and resolved **now**.
+
+The number of IoT and connected objects grows exponentially, so their **security
+exploits** will have **more and more repercussions**, making them very
+**attractive for the hackers**. Recent news and the growing IoT track at
+security conferences such as [Blackhat](https://www.blackhat.com/), or
+[Defcon](https://www.defcon.org/) perfectly illustrates this phenomenon.
+
+### About Bluetooth
+
+In regards to Bluetooth, the SIG greatly enhanced the BLE security releasing at
+the end of 2014 the **Bluetooth Core Specification 4.2.** This update introduces
+*LE Secure Connections* pairing model with the numeric comparison method and
+the *Elliptical Curve Hellman-Diffie* (ECDH) algorithm for the key exchange.
+<br> *LE Secure Connections* fixes BLE 4.0–1 exploits unveiled in 2012 by Mike
+Ryan at[ TOORCON](https://toorcon.net/)
+([video](https://www.youtube.com/watch?v=4POOiVrdnX8), [crackle
+project](http://lacklustre.net/projects/crackle/)).
+
+Like *LE Legacy* pairing, *LE Secure Connection* defines several modes and
+levels of security (see section 5.2.4 Association Models of the Bluetooth Core
+Specification 4.2). Nonetheless, the available modes depend on the “IO
+Capabilities” — keyboard, display, button — that the pairing devices have.
+
+![](https://cdn-images-1.medium.com/max/1000/1*sltPpFvfg55pwJ6cRrBwEw.png)
+
+The highest level of security, *Numeric Comparison* requires that both BLE
+devices have a keyboard and a display to confirm and compare a number displayed
+on both the peripheral and smartphone. An alternative and more convenient
+approach is using NFC.<br> By placing a smartphone close to the BLE (and NFC)
+peripheral, NFC will automatically initiate the BLE pairing and keys exchange
+mechanisms to establish an authenticated and encrypted communication channel.
+
+However, the highly **limited bill of material (BOM) cost** or the **PCB size** prevents placing a screen, an interactive input, or an NFC antenna on such
+devices.<br> As a consequence, they provide a weak level of security whereas the
+attacks targeting such smart objects are rising.
+
+To overcome this issue, we propose a technological **solution based on Visible Light Communication (VLC)** solution to assist the pairing and the secure
+connection setup between a BLE 4.2 peripheral and a smartphone.<br> This
+solution targets low-cost and size-constrained IoT devices that need to setup
+the *Secure Connection* with *Numeric Comparison* to provide **a high level of security even on BLE devices that have neither input and display nor NFC**.
+
+### Few words about Kiwink and VLC
+
+![](https://cdn-images-1.medium.com/max/800/1*8pvCtdZwxeVch5MOBtPt9A.png)
+
+[Rtone](http://rtone.fr/) has recently developed
+[Kiwink](http://kwink.io/)®, a short range **bidirectional Visible Light Communication** system between an **unmodified smartphone** and a basic and **cheap LED**.<br> **Kiwink®** uses the **camera** and the **flashlight** of an
+Android or iOS smartphone and does **not need hardware modification in the IoT peripheral** since it works with any micro-controller.
+
+> **In fact, bringing Visible Light Communication to your nRF52 BLE
+> device just need a firmware update!**
+
+The communication range of such technology is tens of centimeters while the
+throughput is **about 1kbps from the peripheral LED to the smartphone** and **50bps from the smartphone to the peripheral LED**.
+
+**Kiwink®** is a trademark and its technology patented.
+
+### Improving BLE security with Kiwink and VLC
+
+To solve the problem described above, we propose to take advantage of this
+VLC-based technology and ubiquitous LEDs, to provide **a safe side channel** to
+acknowledge or display a confirmation code and establish a BLE Secure
+Connection. We can also envisage to transmit a larger key if another Secure
+Connection mechanism is used.
+
+This out of band key exchange is thus **safer than NFC against passive
+eavesdropper** since the light signal is highly directive and easy to obfuscate.
+
+#### In practice, the connection establishment should work as follow:
+
+1.  The smartphone starts sending a BLE Secure Connection request to the peripheral
+1.  The smartphone and the peripheral proceeds to the Secure Connection
+Establishment with Numeric Comparison according to the BLE 4.2 standard
+1.  While the smartphone confirmation number appears on the smartphone screen, the
+peripheral LED starts lightning and transmits its number.
+1.  By placing its smartphone above its screen, the application decodes the signal
+and displays the peripheral number on the smartphone screen.
+1.  The user confirms that both codes are equal.
+1.  The smartphone sends the acknowledgment to the peripheral using the flashlight.
+1.  The peripheral decodes the acknowledgment signal and the secure connection
+establishment can proceed according to the BLE 4.2 standard.
+
+![](https://cdn-images-1.medium.com/max/800/1*OU9UmTaxbAnUWrJpK9AVcQ.png)
+
+### Conclusion
+
+We have shown that Kiwink and VLC offer the possibility to setup a *SecureConnection* with *Numeric Comparison* or *Out-Off-Band authentication* on
+low-cost and size-constrained IoT devices that **have neither input and display nor NFC.**
+
+> **Our solution brings a high level of security on BLE devices that would have
+> been completely unsafe otherwise. The costs of this major improvement are negligible since Kiwink only relies on a cheap LED and a piece of software**.
+
+Besides, many application fields and use cases of VLC exists like access
+control, device-to-device communication, or accurate indoor localization using
+ceiling LEDs ([Kiwink website](http://kiwink.io/) gives further information
+about VLC).
+
+Finally, feel free to give your feedback about that. We are are waiting for your
+comments and suggestions!
+
+*You can also read this post and engage the conversation on the [NordicDeveloperZone](https://devzone.nordicsemi.com/blogs/1170/make-your-bluetooth-low-energy-iot-device-more-sec/)*.
