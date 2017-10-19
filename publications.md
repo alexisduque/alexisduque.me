@@ -9,7 +9,7 @@ This page collects my publications.
 
 ## Conferences
 
-{% reference duque:hal-01571530 %} [*link*](https://hal.inria.fr/hal-01571530)
+{% reference Duque:2017:SHL:3129881.3129889 %} [*link*](https://dl.acm.org/citation.cfm?doid=3129881.3129889), [*slides*](https://speakerdeck.com/alexisduque/seedlight-hardening-led-to-camera-communication-with-random-linear-coding)
 
 {% reference duque:hal-01473706 %} [*link*](https://hal.inria.fr/hal-01473706)
 
