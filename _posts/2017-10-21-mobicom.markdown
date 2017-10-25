@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "ACM Mobicom'17 week"
+title: "Paper presentation at the VLCS'17 workshop"
 date: "2017-10-20 09:39:31 +0200"
 ---
 <img src="https://www.sigmobile.org/mobicom/2017/images/mobicom-2017-banner.png" alt="University of Utah" style="max-height: 300px;"/>
 
-From October 16th to 21th, I attended the prestigious [ACM Mobicom conference](https://www.sigmobile.org/mobicom/2017/) that has been held in the Snowbird Ski resort, Utah.
+From October 16th to 21th, I attended the [ACM Mobicom conference](https://www.sigmobile.org/mobicom/2017/) that has been held in the Snowbird Ski resort, Utah.
 
 On October 16th, I presented the paper *SeedLight: Hardening LED-to-Camera Communication with Random Linear Coding* co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes at the [VLCS 2017 workshop](http://vlcs17.winlab.rutgers.edu/).
 
