@@ -17,7 +17,7 @@ international forum that gathers researchers and students, from** academia and
 industry**, to present their latest results in the fields of networks, systems,
 algorithms, and applications that support mobile computers and wireless
 networks.<br> MobiCom is a highly selective conference (about 18% of acceptance
-this year) offering  quality works and presentations.
+this year) offering quality works and presentations.
 
 ![](https://cdn-images-1.medium.com/max/800/1*Jn0joQaVjWkl3i1sjuSpKA.jpeg)
 
@@ -37,7 +37,7 @@ Devices](https://doi.org/10.1145/3117811.3117814), Z. Yang (ShanghaiTech
 University)
 
 In her paper, Zhang creates a covert-channel based on the reflection of
-surrounding RF signals on smartphone or labtops. This is achieved controlling
+surrounding RF signals on smartphone or laptops. This is achieved controlling
 the impedance of the device’s wireless network interface card (NIC) by switching
 it ON or OFF. Even if the throughput is very low (< 2 bps) the main interest of
 NICScatter is that it doesn’t need any OS modification or root permissions.
@@ -61,7 +61,7 @@ Induction (MI) signals emitted from CPUs and captured by magnetometers on mobile
 devices for communication.
 
 * [Battery-free Visible Light
-Sensing](http://dl.acm.org/citation.cfm?doid=3129881.3129890)*,A. Varshney, A.
+Sensing](http://dl.acm.org/citation.cfm?doid=3129881.3129890),A. Varshney, A.
 Soleiman, L. Mottola, and T. Voigt (Uppsala University, Sweden), **VLCS ’17 Workshop best paper award**
 
 Ambush Varshney presented a Visible Light Sensing (VLS) system that consumes
