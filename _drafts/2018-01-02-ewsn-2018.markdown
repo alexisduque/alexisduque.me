@@ -1,0 +1,10 @@
+---
+layout: post
+title: "EWSN 2018 accepted poster"
+date: "2018-01-01 09:36:31 +0200"
+
+---
+
+From February 14th to 16th, I presented our work *Insights into RGB-LED to Smartphone Communication* during the posters session at [EWSN](https://ewsn2018.networks.imdea.org/) that has been held in Madrid, Spain.
+
+The poster abstract will be included in the conference proceedings that will be published soon or can alternatively be accessed via the [HAL library](https://hal.inria.fr/hal-01683605).
