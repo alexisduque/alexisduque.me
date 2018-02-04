@@ -3,13 +3,25 @@ layout: page
 title: Talks
 ---
 
+## La sécurité dans l'IoT : difficultés, failles et contre-mesures
+
+A talk about *Internet Of Things security* I gave at **Snowcamp 2018** in Grenoble, on January 26th.
+
+*Abstract (In French): Avec la multiplication des objets connectés dans notre quotidien, la sécurité de ces appareils électroniques, qui a été souvent négligée par le passé, devient une réelle problématique. Leur faible coût de conception, la négligence des fabricants ou même la notre, nous développeurs, en font des proies faciles pour les hackers.
+Ce phénomène se constate bien dans l'actualité, où l'on parle de plus en plus d'attaques à grande échelles visant des cameras ou frigos connectés, mais également les serrures Bluetooth.
+Au cours de ce talk nous verrons en détails le principe des dernières attaques qui ont fait la une. Nous parlerons ensuite des failles touchant les IoTs les plus courantes (le top 10 OWASP IoT), les solutions et contre-mesures.
+Nous parlerons notamment des attaques par canaux auxiliaires pour lesquelles peu de solutions existent et qui donnent toujours du fil à retordre aux chercheurs.
+Enfin, nous terminerons par une petite démo d’attaque de type Man-in-the-midle (MiTM) sur un objet Bluetooth*
+
+<script async class="speakerdeck-embed" data-id="558c29d7ef7144d8be8d6b3e3a966deb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## Le logiciel libre et leurs communautés peuvent-ils contribuer à un monde meilleur ?
 
 A talk about *Open Source Software and Communities* I gave at **MiXiT 2017** in Lyon, on April 20th.
 
 *Abstract (In French): En 2014, en participant au programme Google Summer Code, j’ai eu l’opportunité de rejoindre la communauté du projet OpenMRS.
 OpenMRS est une plateforme de collecte de données médicales (EMR), libre, gratuite et utilisées dans de nombreux pays du tiers monde. L’origine de ce projet remonte à 2004, pour améliorer la lutte contre le SIDA en Afrique subsaharienne. Plus de dix ans après, le projet rassemble une communauté de près de 150 contributeurs actifs et 3000 utilisateurs dans le monde.
-La nature humanitaire de ce projet, m'a poussé à me questionner sur l’impact et l’influence qu’un tel projet, et plus généralement les logiciels libres pouvaient avoir sur la société et le monde actuel. L'objectif de ce talk est donc de partager cette experience et de suciter votre reflexion !*v
+La nature humanitaire de ce projet, m'a poussé à me questionner sur l’impact et l’influence qu’un tel projet, et plus généralement les logiciels libres pouvaient avoir sur la société et le monde actuel. L'objectif de ce talk est donc de partager cette experience et de suciter votre reflexion !*
 
 <script async class="speakerdeck-embed" data-id="263871e25bd24b7cbbe9ee0547aba4ff" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 

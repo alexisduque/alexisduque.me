@@ -9,17 +9,22 @@ This page collects my publications.
 
 ## Conferences
 
-{% reference Duque:2017:SHL:3129881.3129889 %} [*link*](https://dl.acm.org/citation.cfm?doid=3129881.3129889), [*slides*](https://speakerdeck.com/alexisduque/seedlight-hardening-led-to-camera-communication-with-random-linear-coding)
+{% reference duque:hal-01683629%} [*link*](https://hal.inria.fr/hal-01683629), [*PDF*](https://hal.inria.fr/hal-01683629/document), [*Poster*]()
 
-{% reference duque:hal-01473706 %} [*link*](https://hal.inria.fr/hal-01473706)
+{% reference Duque:2017:SHL:3129881.3129889 %} [*link*](https://hal.inria.fr/hal-01683629), [*PDF*](https://hal.inria.fr/hal-01683629/document), [*slides*](https://speakerdeck.com/alexisduque/seedlight-hardening-led-to-camera-communication-with-random-linear-coding)
 
-{% reference duque:hal-01351146 %} [*link*](https://hal.inria.fr/hal-01351146), [*slides*]({{ site.baseurl }}/public/vlcs16-duque.pdf)
+{% reference duque:hal-01473706 %} [*link*](https://hal.inria.fr/hal-01473706), [*PDF*](https://hal.inria.fr/hal-01473706/document)
+
+{% reference duque:hal-01351146 %} [*link*](https://hal.inria.fr/hal-01351146), [*PDF*](https://hal.inria.fr/hal-01351146/document), [*slides*]({{ site.baseurl }}/public/vlcs16-duque.pdf)
 
 ## Journals
 
 *Coming Soon*
 
 ## Posters
+{% reference duque:hal-01683605 %} [*link*](https://hal.inria.fr/hal-01683605), [*PDF*](https://hal.inria.fr/hal-01683605/document), [*Poster*]()
+
+{% reference duque:poster-ewsn17 %} [*link*]({{ site.baseurl }}/public/poster-ewsn17.pdf)
 
 {% reference duque:poster-ewsn17 %} [*link*]({{ site.baseurl }}/public/poster-ewsn17.pdf)
 
