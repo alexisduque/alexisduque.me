@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Devoxx France and MiXiT 2018"
+date: "2018-04-30 09:44:34 +0200"
+---
+
+From April 18 to 20,  I attended the [Devoxx France](http://www.devoxx.fr) (Wed & Tue, Paris), and the [MiXiT](http://www.mixitconf.org) (Fri, Lyon) conferences.
+
+During these software developer events, I gave a popularization talk about [IoT Security](https://cfp.devoxx.fr/2018/talk/ZPI-2357/La_securite_dans_l'IoT_:_difficultes,_failles_et_contre-mesures) and a lightening talk introducing [Spectre and Meltdown vulnerabilities](https://cfp.devoxx.fr/2018/talk/YEW-3168/Spectre_et_Meltdown,_15_min_pour_tout_comprendre).
+
+You can watch the recording of both conference on [DevoxxFR YouTube channel](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A).
+
+<script async class="speakerdeck-embed" data-id="b51c1fd5d9bf407baf3948dd065f1b1d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ThdFcdyqMik" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+<script async class="speakerdeck-embed" data-id="c1857f1daadf4f6ba138f402e359bf80" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fsV4R5Fvn2g" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+

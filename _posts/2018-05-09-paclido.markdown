@@ -1,0 +1,17 @@
+---
+layout: post
+title: "PACLIDO project"
+date: "2018-05-09 09:44:34 +0200"
+---
+
+Since the beginning of the year, I am involved with Rtone in the FUI23 PACLIDO project.
+
+PACLIDO is a collaborative project that aims to develop lightweight cryptographic algorithms and protocols for the Internet of Thing.
+
+The other partners are Airbus Cybersecurity, LORIA-CNRS, Sophia Conseil, CEA, Université de Limoges and Trusted Object.
+
+Rtone is leading 2 work packages: the use cases and demonstrations definition, and the project dissemination.
+
+You can found more information about the project and news on its website [paclido.fr](https://paclido.fr)
+
+![PACLIDO](https://paclido.fr/img/logo.png)

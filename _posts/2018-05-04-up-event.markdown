@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Upcomming Events"
+date: "2018-05-10 09:44:34 +0200"
+---
+
+The series of my talk about **IoT Security** continues in May and June!
+
+## I will give a presentation in the following events
+- [RiveraDev](http://rivieradev.fr), May 16-18, Sophia Antipolis
+- [Google Cloud & IoT Meetup](https://www.meetup.com/fr-FR/GDG-Cloud-Lyon/events/248775026/), May 31, Epitech Lyon
+- [Voxxedday LU](https://voxxeddays.com/luxembourg/), June 22, Luxembourg
+
+I hope to see you there!
