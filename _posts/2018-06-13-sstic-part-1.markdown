@@ -186,7 +186,7 @@ Damien then applies his methodology, giving a smart lock use case.
 Studying the lock usage is essential, and a careful observation gives the following insights:
 
 * 18 hours of autonomy implies the use of a low energy technology
-* there are no electrical protections against the over tension on the USB port
+* there are no electrical protections against the over voltage on the USB port
 * there is no component to detect the position of the rotor of the lock, which means that the software does not know in which position is the lock
 * on the lock PCB, there is a nRF52 BLE module and an engine driver for the motor.
 
