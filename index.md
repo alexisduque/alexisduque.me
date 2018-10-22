@@ -3,14 +3,16 @@ layout: page
 ---
 <h2>About Me</h2>
 
-Welcome to my webpage !  
+Welcome to my webpage !
 
-I am working towards my PhD thesis at the [CITI laboratory](http://www.citi-lab.fr) within the INRIA [Agora](https://www.inria.fr/en/teams/agora) team, in the framework of French CIFRE fellowships with [Rtone](http://www.rtone.fr).
+I am leading the IoT Security department and the R&D activities at [Rtone](http://www.rtone.fr).
 
-My PhD is under the joint supervision of [Razvan Stanica](http://perso.citi.insa-lyon.fr/rstanica/) and Adrien Desportes,
-Chief Executive Officer at [Rtone](http://www.rtone.fr).
+I am an Engineer in Telecommunications (INSA Lyon, 2015), and I have a Ph.D. in Computer Science from the University of Lyon (2018) after a thesis on Visible Light Communications for the IoT.
 
-My research subject focuses on Visible Light Communication (VLC) and aims to develop suitable MAC/Application layers for a Smart City environment. Use cases and industrial applications are many, such as indoor localization or infrastructure-to-device communication.
+My thesis was in collaboration between Rtone and the [CITI laboratory](http://www.citi-lab.fr) under the CIFRE fellowship, and was supervised by [Razvan Stanica](http://perso.citi.insa-lyon.fr/rstanica/), [Hervé Rivano](http://perso.citi.insa-lyon.fr/hrivano/) and Adrien Desportes (Rtone Chief Executive Officer).
+
+I am actively involved in the [PACLIDO](https://paclido.fr) collaborative project on lightweight cryptographic protocols for the IoT, for which I am the technical lead for Rtone.
+I regularly attend IT conferences and give talks about security in IoT.
 
 If you like my website, you can follow me on twitter [@alexis0duque](https://twitter.com/{{ site.author.twitter }}) and have a look on my [Google scholar]({{ site.author.google_scholar }}) profile.
 
