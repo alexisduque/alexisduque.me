@@ -15,11 +15,11 @@ permalink:        pretty
 # Setup
 title:            'Alexis Duque'
 
-tagline:          'R&D and Security Leader, Rtone.'
-description:      'R&D and Security Leader, Rtone.<br>Ph.D. #iot #vlc #security 💡🔑🚴‍'
+tagline:          'R&D and Security Leader at Rtone.'
+description:      'R&D and Security Leader @Rtone_IoT.<br>Ph.D. #iot #vlc #security 💡🔑🚴‍'
 url:              http://alexisduque.me
 baseurl:          ''
-update: 'February 04th, 2018'
+update: 'October 22th, 2018'
 paginate: 5
 paginate_path: "/news/page:num/"
 

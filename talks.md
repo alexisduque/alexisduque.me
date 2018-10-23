@@ -3,9 +3,23 @@ layout: page
 title: Talks
 ---
 
+## PhD Defense "Bidirectional Visible Light Communications for the Internet of Things"
+
+The slides of my PhD defense on Bidirectional Visible Light Communications for the Internet of Things"
+
+<script async class="speakerdeck-embed" data-id="767bd8b707aa4501aa269bebb122459b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+## Spectre et Meltdown, 15 min pour tout comprendre
+
+A talk about *Spectre and Meltdown vulnerabilities* I gave at **Devoxx France** in Paris, on April 19th.
+
+<script async class="speakerdeck-embed" data-id="c1857f1daadf4f6ba138f402e359bf80" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
 ## La sécurité dans l'IoT : difficultés, failles et contre-mesures
 
-A talk about *Internet Of Things security* I gave at **Snowcamp 2018** in Grenoble, on January 26th.
+A talk about *Internet Of Things security* I gave in several conferences S1 2018.
 
 *Abstract (In French): Avec la multiplication des objets connectés dans notre quotidien, la sécurité de ces appareils électroniques, qui a été souvent négligée par le passé, devient une réelle problématique. Leur faible coût de conception, la négligence des fabricants ou même la notre, nous développeurs, en font des proies faciles pour les hackers.
 Ce phénomène se constate bien dans l'actualité, où l'on parle de plus en plus d'attaques à grande échelles visant des cameras ou frigos connectés, mais également les serrures Bluetooth.
@@ -13,7 +27,10 @@ Au cours de ce talk nous verrons en détails le principe des dernières attaques
 Nous parlerons notamment des attaques par canaux auxiliaires pour lesquelles peu de solutions existent et qui donnent toujours du fil à retordre aux chercheurs.
 Enfin, nous terminerons par une petite démo d’attaque de type Man-in-the-midle (MiTM) sur un objet Bluetooth*
 
+<script async class="speakerdeck-embed" data-id="fd07477ec91849f19a53d1aca6466139" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 <script async class="speakerdeck-embed" data-id="558c29d7ef7144d8be8d6b3e3a966deb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 ## Le logiciel libre et leurs communautés peuvent-ils contribuer à un monde meilleur ?
 
@@ -24,6 +41,7 @@ OpenMRS est une plateforme de collecte de données médicales (EMR), libre, grat
 La nature humanitaire de ce projet, m'a poussé à me questionner sur l’impact et l’influence qu’un tel projet, et plus généralement les logiciels libres pouvaient avoir sur la société et le monde actuel. L'objectif de ce talk est donc de partager cette experience et de suciter votre reflexion !*
 
 <script async class="speakerdeck-embed" data-id="263871e25bd24b7cbbe9ee0547aba4ff" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 ## Bluetooth Low Energy: vous saurez tout
 
