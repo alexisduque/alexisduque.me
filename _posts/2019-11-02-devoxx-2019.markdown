@@ -4,7 +4,7 @@ title: "Devoxx 2019"
 date: "2019-11-03 09:44:34 +0200"
 ---
 
-From November 03 to 14, I attended the [Devoxx BE](http://www.devoxx.be) and the [Devoxx Morroco](http://www.mixitconf.org) (Fri, Lyon) conferences.
+From November 03 to 14, I attended the [Devoxx BE](https://www.devoxx.be) and the [Devoxx Morocco](https://www.devoxx.ma) conferences.
 
 During these software developer events, I gave a Tool-in-Action talks about [Machine Learning on IoT and Tensorflow Lite](https://devoxx.be/talk/?id=37401) and a lightening talk introducing [5G](https://devoxx.be/wednesday-schedule/talk?id=38051).
 

@@ -2,8 +2,10 @@
 layout: page
 ---
 
-<h3>Research Collaboration Opportunity</h3>
-If you are looking for an SME to contribute to your collaborative research project, Rtone will be happy to help! Our research interests and expertises are IoT, Security, Embedded Machine Learning, Software Defined Radio, Wireless Communications, LPWAN, etc. Get more in this short presentation: [Research at Rtone](https://speakerdeck.com/alexisduque/research-at-rtone).
+<h3><b>Research Collaboration Opportunity</b></h3>
+If you are looking for an SME to contribute to your collaborative research project, **Rtone will be happy to help**!
+
+Our research interests and expertises are IoT, Security, Embedded Machine Learning, Software Defined Radio, Wireless Communications, LPWAN, etc. Get more in this [short presentation](https://speakerdeck.com/alexisduque/research-at-rtone).
 
 <h2>About Me</h2>
 
