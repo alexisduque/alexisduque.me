@@ -1,0 +1,14 @@
+---
+layout: post
+title: "ACM MSWiM full paper"
+date: "2019-11-30 09:36:31 +0200"
+---
+
+The paper "Performance Evaluation of LED-to-Camera Communication", co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication at the [ACM MSWiM](http://mswimconf.com/2019/), to be held in Miami Beach, Florida, USA on November 25-29.
+
+During the conference, I introduced our work on the modeling and simulation of LED-to-Camera communication by presenting [CamComSim](https://github.com/vlc-citi-lab/camcomsim).
+
+The full paper has been included in the conference proceedings that can be accessed [ here](https://dl.acm.org/citation.cfm?id=3355922).
+
+My presentation slides are available below.
+

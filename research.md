@@ -5,9 +5,12 @@ title: Research Interests
 
 My main interests are in these fields :
 
-* *Internet Of Things*
+* *Internet of Things*
+* *Machine Learning*
+* *Embedded Machine Learning*
 * *IoT Security*
 * *Visible Light Communications*
+* *Software Defined Radio*
 * *Indoor Localization*
 * *Smart City Paradigm*
 * *Wireless Mesh Networks*

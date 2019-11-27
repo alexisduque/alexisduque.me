@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Devoxx 2019"
+date: "2019-11-03 09:44:34 +0200"
+---
+
+From October 28 to 31, I attended the [Linux Foundation Open Source Summit and Embedded Linux Conference Europe](https://events19.linuxfoundation.org/events/open-source-summit-europe-2019/).
+
+During this software developer events, I gave a quick talk about [Lilliput-AE](https://paclido.fr/lilliput-ae/), a lightweight cryptographic block cipher that is a result of the collaborative research project [PACLIDO](https://paclido.fr).
+
+<script async class="speakerdeck-embed" data-id="463e6c4123614d2dad936154173c462d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
