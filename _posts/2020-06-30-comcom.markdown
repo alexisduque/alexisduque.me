@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Elsevier Computer Communications Journal"
+date: "2020-07-01 09:36:31 +0200"
+---
+
+The paper "Analytical and simulation tools for optical camera communications", co-authored with Razvan Stanica, Hervé Rivano and Adrien Desportes, has been accepted for publication in the [Elsevier Computer Communication](https://www.sciencedirect.com/science/article/pii/S0140366420310896).

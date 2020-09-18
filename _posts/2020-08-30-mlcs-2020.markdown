@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Paper accepted at MLCS'20"
+date: "2020-09-01 09:36:31 +0200"
+---
+
+The paper "MitM Attack Detection in BLE Networks using Reconstruction and Classification Machine Learning Techniques", co-authored with Abdelkader Lahmadi, Nathan Heraief and Julien Francq, has been accepted for publication in the [Machine Learning for Cybersecurity Workshop](http://mlcs.lasige.di.fc.ul.pt/) to be held virtually on September 14th.
+
+The full paper has been included in the conference proceedings that can be accessed [here](/public/ml-ble-mlcs2020-CR.pdf).
+
+The presentation slides are available [here](/public/slides_ML-BLE.pdf).

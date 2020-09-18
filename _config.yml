@@ -15,24 +15,24 @@ permalink:        pretty
 # Setup
 title:            'Alexis Duque'
 
-tagline:          'R&D and Security Leader at Rtone.'
-description:      'R&D and Security Leader @Rtone<br>Ph.D. #iot #vlc #security 💡🔑🚴‍'
+tagline:          'Director of Research at Rtone.'
+description:      'Director of Research @Rtone<br>Ph.D. #iot #ml #vlc #security 💡🔑🚴‍'
 url:              http://alexisduque.me
 baseurl:          ''
-update: 'October 22th, 2018'
+update: 'September 15th, 2020'
 paginate: 5
 paginate_path: "/news/page:num/"
 
 author:
   name: 'Alexis Duque'
-  email: 'alexis.duque@insa-lyon.fr'
+  email: 'alexisd61@gmail.com'
   github: alexisduque
   twitter: alexis0duque
   linkedin: alexisduque
   google_scholar: https://scholar.google.fr/citations?user=P9BIZW0AAAAJ
   email_md5: 83124b745752d1a1b0ca2eee1af0bd48
   disqus_shortname: alexisduque
-  bio: PhD student at the CITI Lab of INSA de Lyon, Urbanet Team - Embedded Software Engineer at Rtone.
+  bio: Director of Research at Rtone. Ph.D. in Computer Science.
   google_analytics_id: 'UA-73113604-1'
   google_analytics_url: 'auto'
 # Custom vars
