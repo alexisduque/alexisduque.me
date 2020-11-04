@@ -5,7 +5,7 @@ layout: page
 <h3><b>Research Collaboration Opportunity</b></h3>
 If you are looking for an SME to contribute to your collaborative research project, **Rtone will be happy to help**!
 
-Our research interests and expertises are IoT, Security, Embedded Machine Learning, Software Defined Radio, Wireless Communications, LPWAN, etc.
+Our research interests and expertises are IoT, Cybersecurity, Embedded Machine Learning, Software Defined Radio, Wireless Communications, LPWAN, etc.
 
 Get more information in this [short presentation](https://speakerdeck.com/alexisduque/research-at-rtone).
 
@@ -14,6 +14,8 @@ Get more information in this [short presentation](https://speakerdeck.com/alexis
 Welcome to my webpage !
 
 I am director of research and lead the security activities at [Rtone](http://www.rtone.fr).
+
+I am also a Research Associate at the Univesity of Edinburgh in the [Mobile Intelligence Lab](https://mi.inf.ed.ac.uk/) lead by [Paul Patras](http://homepages.inf.ed.ac.uk/ppatras/). I'm involved in the development of [Net AI](https://netai.tech), a university spin-out that develops an AI software to drive efficient network slicing.
 
 I have a Master of Engineering degree in Telecommunications from INSA Lyon (2015) and a Ph.D. in Computer Science from the University of Lyon (2018) after a thesis in computer science on Visible Light Communications for the IoT.
 

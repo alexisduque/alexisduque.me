@@ -8,7 +8,7 @@ My main interests are in these fields :
 * *Internet of Things*
 * *Machine Learning*
 * *Embedded Machine Learning*
-* *IoT Security*
+* *IoT Cybersecurity*
 * *Visible Light Communications*
 * *Software Defined Radio*
 * *Indoor Localization*
